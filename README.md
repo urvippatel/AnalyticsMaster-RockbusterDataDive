@@ -23,7 +23,7 @@ Utilizing a relational database comprising 15 detailed tables—including inform
 - **ERD Tools**: For database design visualization.
 - **Data Analytics Tools**: Employing various tools for cleaning, analyzing, and summarizing data.
 
-### Visuals
+## Visuals
 
 Interactive visuals and dashboards are created using Tableau, offering a user-friendly interface to explore and understand the data insights:
 
