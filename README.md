@@ -4,10 +4,14 @@
 
 Dive deep into the movie rental industry with `AnalyticsMaster-RockbusterDataDive`, a comprehensive analysis leveraging **SQL**, **data visualization**, and **business intelligence** to uncover hidden patterns and drive strategic decisions. This project demonstrates expertise in **database management**, **data analytics**, and **data engineering**, presenting a thorough examination of customer behaviors, revenue trends, and market opportunities.
 
+## Acknowledgements
+
+This project would not have been possible without the comprehensive data analytics program provided by CareerFoundry. The curriculum, mentorship, and hands-on projects offered by CareerFoundry have been instrumental in developing my expertise in SQL querying, database management, and data visualization.
+
 ## Data
 
 Utilizing a relational database comprising 15 detailed tables—including information on customers, actors, films, rentals, and inventory—this project provides a holistic view of Rockbuster's operations. Each table's structure and relationships are meticulously documented in the Data Dictionary included in this repository.
-
+The data set has been provided by @CarrerFoundry.
 ## Key Features
 
 - **Advanced SQL Queries**: Showcase of complex querying, including **joins**, **subqueries**, and **CTEs** for in-depth data analysis.
